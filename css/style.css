@@ -2853,35 +2853,6 @@ textarea{
 	font-size:14px;
 }
 
-/* MAP SECTION* -------------------------- */
-
-.google-maps {
-	position: relative;
-	padding-bottom:30%;
-	height: 0;
-	overflow: hidden;
-}
-.google-maps p{
-	font-size:14px;
-	margin-bottom:0;
-}
-.google-maps #map {
-	position: absolute;
-	top: 0;
-	left: 0;
-	width: 100% !important;
-	height: 100% !important;
-}
-
-/* CONTACT SECTION* -------------------------- */	
-
-.contact {
-	background:#f2f2f2;
-}
-.contact .bwt-offset-top-20 {
-	margin-top:20px;
-}
-
 /* FOOTER SECTION* -------------------------- */	
 
 .bwt-footer { 
@@ -2919,15 +2890,6 @@ textarea{
 	margin:0 5px;
 }
 .facebook{
-	background:#006699;
-}
-.twitter{
-	background:#52a5e9;
-}
-.google{
-	background:#d62221;
-}
-.linked{
 	background:#006699;
 }
 .youtube{
